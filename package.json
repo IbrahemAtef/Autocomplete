@@ -1,0 +1,22 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "open": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahemAtef/Autocomplete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahemAtef/Autocomplete/issues"
+  },
+  "homepage": "https://github.com/IbrahemAtef/Autocomplete#readme"
+}
